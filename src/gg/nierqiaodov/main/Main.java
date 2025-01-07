@@ -20,8 +20,8 @@ public class Main {
         GetAccess.checkAndCreateTimeFile();
         // 检查并创建事件文件
         GetAccess.checkAndCreateEventFile();
-        // 调用 Frame 类的 frame 方法来显示主界面
-        Frame.frame();
+        // 调用 Frame 类的 frameA 方法来显示主界面
+        Frame.frameA();
     }
 
 
